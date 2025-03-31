@@ -1,0 +1,8 @@
+Esta es la conexion de base de datos del html con MySQL 
+
+KEY: 78tgfbyufb6723bkfvjfv
+
+PublicKey 982y3r92fjebrgbrngbkdfgjbkdf
+
+
+Este archivo permite la conexcion con html de la base de datos como parte de uun ehercicio en GIT ejercicios
